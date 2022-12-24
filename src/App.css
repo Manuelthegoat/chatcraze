@@ -1,0 +1,22 @@
+.nav{
+    background-color: rgba(0, 0, 255, 0.527);
+    color: white;
+}
+.nav input,button{
+    margin: 10px;
+}
+.face{
+    padding-left: 10rem;
+}
+.body input,button{
+    margin: 10px;
+}
+.body{
+    text-align: center;
+}
+.pt{
+    padding-top: 100px;
+}
+.pl-30{
+    padding-left: 30px;
+}
