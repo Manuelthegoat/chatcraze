@@ -22,7 +22,7 @@ const Body = () => {
     <div>
       <div className="row justify-content-center body pt">
         <div className="col-md-6">
-
+<p>yes emmanuel made it, nonsense</p>
         </div>
         <div className="col-md-4">
             <h1>Register</h1>
